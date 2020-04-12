@@ -3,12 +3,24 @@
     "displayName": "XSJS Language Support",
     "description": "XSJS Language Support for Visual Studio Code",
     "version": "1.0.0",
+    "publisher": "jhodel",
     "engines": {
         "vscode": "^1.44.0"
     },
     "categories": [
         "Programming Languages"
     ],
+	"keywords": [
+		"xsjs", "xsjslib", "sap"
+	],
+	"bugs": {
+		"url": "https://github.com/jcailan/xsjs/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jcailan/xsjs.git"
+	},
+	"icon": "images/icon.png",
     "contributes": {
         "languages": [{
             "id": "xsjs",
