@@ -1,4 +1,4 @@
-[![Installs]](https://marketplace.visualstudio.com/items?itemName=jhodel.jcailan-xsjs)
+[![Version](http://vsmarketplacebadge.apphb.com/version/jhodel.jcailan-xsjs.svg)](https://marketplace.visualstudio.com/items?itemName=jhodel.jcailan-xsjs)  [![Installs](http://vsmarketplacebadge.apphb.com/installs/jhodel.jcailan-xsjs.svg)](https://marketplace.visualstudio.com/items?itemName=jhodel.jcailan-xsjs)    [![Rating](http://vsmarketplacebadge.apphb.com/rating-star/jhodel.jcailan-xsjs.svg)](https://marketplace.visualstudio.com/items?itemName=jhodel.jcailan-xsjs)
 
 # SAP XSJS Language Support for Visual Studio Code
 
