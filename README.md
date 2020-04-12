@@ -1,3 +1,5 @@
+[![Installs]](https://marketplace.visualstudio.com/items?itemName=jhodel.jcailan-xsjs)
+
 # SAP XSJS Language Support for Visual Studio Code
 
 This is an XSJS syntax highlighting extension for Visual Studio Code.  Based on the JavaScript syntax.
