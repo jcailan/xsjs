@@ -2,7 +2,7 @@
     "name": "jcailan-xsjs",
     "displayName": "XSJS Language Support",
     "description": "XSJS Language Support for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -19,7 +19,7 @@
         "grammars": [{
             "language": "xsjs",
             "scopeName": "source.xsjs",
-            "path": "./syntaxes/JavaScript.tmLanguage.json",
+            "path": "./syntaxes/xsjs.tmLanguage.json",
             "embeddedLanguages": {
                 "meta.embedded.block.javascript": "javascript"
             }

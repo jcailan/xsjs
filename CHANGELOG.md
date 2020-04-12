@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- TBC
+
+## Release 1.0.0
+
+- XSJS syntax highlight for both **.xsjs** and **.xsjslib** file extensions
