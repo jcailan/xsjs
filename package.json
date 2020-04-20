@@ -2,7 +2,7 @@
     "name": "jcailan-xsjs",
     "displayName": "XSJS Language Support",
     "description": "XSJS Language Support for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "jhodel",
     "engines": {
         "vscode": "^1.44.0"
